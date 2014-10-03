@@ -1,0 +1,100 @@
+body{
+	font: 16px Helvetica, Sans-Serif; 
+	line-height: 24px;
+	
+	}
+
+#page{ 
+	width: 800px; 
+	margin: 40px auto 60px; 
+	}
+
+#header{
+	 margin: 0 0 1px 0; 
+	 padding: 0 0 1px 0; 
+	 font-size: 42px; 
+	 font-weight: bold; 
+	 letter-spacing: -2px; 
+	 border-bottom: 1px solid #999;
+	}
+
+
+#right{
+	width: 40%;
+	float: right;
+	}
+
+h1 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 1px;
+	color: rgb(0,0,100);
+	}
+
+.container {
+	float: right; 
+	margin: -30px 0 0 0;
+
+	}
+
+.container img {
+    width: 65%;
+    height: auto;
+    box-shadow: rgba(0,0,0,0.2) 10px 10px;
+	}
+
+span{
+	font-size: 20px;
+	text-decoration: bold;
+	}
+
+#left{
+	width: 40%;
+	float: left;
+	}
+
+.text{
+	width: 700px;
+    height: 50px;
+	}
+
+.text{
+	font-family: Verdana;
+	}
+
+p3{
+	font-family: cursive;
+	}
+
+#resume{
+	border-collapse:collapse;border-spacing:0;
+}
+
+.resume td{
+	font-family:Arial, sans-serif;
+	font-size:14px;padding:10px 5px;
+	border-style:solid;
+	border-width:0px;
+	overflow:hidden;
+	word-break:normal;
+	border-top-width:1px;
+	border-bottom-width:1px;
+	}
+
+.resume th{
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	font-weight:normal;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:0px;
+	overflow:hidden;
+	word-break:normal;
+	border-top-width:1px;
+	border-bottom-width:1px;
+	}
+
+.resume .resume-c7d0{
+	background-color:#bbdaff
+	}
